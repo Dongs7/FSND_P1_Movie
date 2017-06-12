@@ -128,7 +128,7 @@ def create_movie_tile(movies):
 
 def open_page(movies):
     # Create or overwrite the output file
-    output_file = open('test.html', 'w')
+    output_file = open('project1.html', 'w')
 
     # Replace the movie tiles placeholder generated content
     rendered_content = main_page_body.format(
