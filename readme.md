@@ -26,3 +26,5 @@ There are total six files:
 In order to generate html file, type 'python main.py' from the command prompt. Then 'project1.html' file will be generated.
 - Users can watch movie trailers and vew information by clicking on poster images. 
 - Movies can be filtered by rating by clicking buttons on the top of the page
+
+*all movie stories are cited from imdb plot summary
