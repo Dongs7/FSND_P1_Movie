@@ -33,6 +33,7 @@ $(document).ready(function(){
       }));
       //
 
+      //Assign movie informtion to the modal fields
       $('#detailModal h4.modal-title').text(title);
       $('#detailModal img.poster_detail').attr('src',poster_url);
       $('#detailModal span.movie_rating').text(rating);
